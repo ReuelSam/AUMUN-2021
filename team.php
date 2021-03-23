@@ -54,11 +54,11 @@
                     <center><h1>Secretary General</h1></center>
                     <hr />
                 <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/vineeth_new.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/vamsi.jfif">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Vineeth Ajith John</label>
+                                <label id="member_name">Vamsi Krishna</label>
                             </center>
                         </div>        
                 </div>   
@@ -71,11 +71,11 @@
                     <center><h1>Director General</h1></center>
                     <hr />
                 <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/anushri.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/medha.jpg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Anushri Eswaran</label>
+                                <label id="member_name">Medha Iyer</label>
                             </center>
                         </div>        
                 </div>   
@@ -88,17 +88,36 @@
                     <center><h1>Deputy Secretary General</h1></center>
                     <hr />
                 <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/raghav.JPG">
+                        <img class="member-item" id="member_img" src="images/Team/akash.jpg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Raghav Swaminathan</label>
+                                <label id="member_name">Akash Pillai</label>
                             </center>
                         </div>        
                 </div>   
             </div>
             
             <br />
+
+            <!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>    
+            
+            <div class="members_box" style="width: 80%; margin:auto">
+                    <center><h1>Deputy Director General</h1></center>
+                    <hr />
+                <div class="members">
+                        <img class="member-item" id="member_img" src="images/Team/Kaushic.jpg">
+                    
+                        <div class="member-item" id="member_name_div">
+                            <center>
+                                <label id="member_name">Kaushic Aravind B</label>
+                            </center>
+                        </div>        
+                </div>   
+            </div>
+            
+            <br />
+
          <!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>    
                 
             
@@ -130,75 +149,49 @@
             </div>
             
             <br />
+            
+            
             <!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>    
-            
-            <div class="members_box" style="width: 80%; margin:auto">
-                    <center><h1>Chief Advisor</h1></center>
-                    <hr />
-                <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/abullais.jpg">
-                    
-                        <div class="member-item" id="member_name_div">
-                            <center>
-                                <label id="member_name">Syed Abullais</label>
-                            </center>
-                        </div>        
-                </div>   
-            </div>
-            
-            <br />
             
             <!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>    
             
             <div class="members_box" style="width: 80%; margin:auto">
-                    <center><h1>Chief Of Operations</h1></center>
+                    <center><h1>USG Design</h1></center>
                     <hr />
-                <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/akash.jpg">
-                    
-                        <div class="member-item" id="member_name_div">
-                            <center>
-                                <label id="member_name">Akash Pillai</label>
-                            </center>
-                        </div>        
-                </div>   
-            </div>
-            
-            <br />
-            <!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>    
-            
-            <div class="members_box" style="width: 80%; margin:auto">
-                    <center><h1>USG Technology And Design</h1></center>
-                    <hr />
-                <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/reuel3.jpg">
-                    
-                        <div class="member-item" id="member_name_div">
-                            <center>
-                                <label id="member_name">Reuel Samuel Sam</label>
-                            </center>
-                        </div>        
-                </div> 
                 
                 <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/sukrith.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/kanishk.jfif">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Sukrith Sriram</label>
+                                <label id="member_name">Kanishk</label>
                             </center>
                         </div>        
                 </div>
                 
                 <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/agastya.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/stock_user1.jpg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Agastya Deshraju</label>
+                                <label id="member_name">Dona</label>
                             </center>
                         </div>        
                 </div>
+                
+                
+                <div class="members" id="multi_member_div">
+                        <img class="member-item" id="member_img" src="images/Team/stock_user1.jpg">
+                    
+                        <div class="member-item" id="member_name_div">
+                            <center>
+                                <label id="member_name">Gautham</label>
+                            </center>
+                        </div>        
+                </div>
+
+               
+               
                 
                 <br />
             </div>
@@ -207,14 +200,14 @@
             <!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>    
             
             <div class="members_box" style="width: 80%; margin:auto">
-                    <center><h1>USG Marketing</h1></center>
+                    <center><h1>USG Technology</h1></center>
                     <hr />
                 <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/adil.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/reuel3.jpg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Adil Sheriff</label>
+                                <label id="member_name">Reuel Samuel Sam</label>
                             </center>
                         </div>        
                 </div>   
@@ -237,11 +230,11 @@
                 </div> 
                 
                 <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/asg.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/ramela.JPG">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Aditya Sengupta</label>
+                                <label id="member_name">Ramela Kennedy</label>
                             </center>
                         </div>        
                 </div>
@@ -274,11 +267,11 @@
                     <center><h1>USG Policy</h1></center>
                     <hr />
                 <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/aparna.png">
+                        <img class="member-item" id="member_img" src="images/Team/samhita.JPG">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Aparna Sivanandam</label>
+                                <label id="member_name">Samhita</label>
                             </center>
                         </div>        
                 </div>   
@@ -291,21 +284,21 @@
                     <center><h1>USG Delegate Relations</h1></center>
                     <hr />
                 <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/ramela.JPG">
+                        <img class="member-item" id="member_img" src="images/Team/ganesh.jpg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Ramela Kennedy</label>
+                                <label id="member_name">Ganesh Giranje</label>
                             </center>
                         </div>        
                 </div> 
                 
                 <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/ashwath.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/stock_user1.jpg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Ashwathram Saravanan</label>
+                                <label id="member_name">Meenakshi</label>
                             </center>
                         </div>        
                 </div>
@@ -317,7 +310,7 @@
             <!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>    
             
             <div class="members_box" style="width: 80%; margin:auto">
-                    <center><h1>USG Logistics</h1></center>
+                    <center><h1>USG Operations</h1></center>
                     <hr />
                 <div class="members" id="multi_member_div">
                         <img class="member-item" id="member_img" src="images/Team/ainesh.jpg">
@@ -339,6 +332,15 @@
                         </div>        
                 </div>
                 
+                <div class="members" id="multi_member_div">
+                        <img class="member-item" id="member_img" src="images/Team/agastya.jpg">
+                    
+                        <div class="member-item" id="member_name_div">
+                            <center>
+                                <label id="member_name">Agastya Deshraju</label>
+                            </center>
+                        </div>        
+                </div>
                 
                 <br />
             </div>
