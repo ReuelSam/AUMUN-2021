@@ -1,0 +1,146 @@
+@font-face 
+{
+    font-family: nav_font;
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face 
+{
+    font-family: footer_font;
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+@font-face 
+{
+    font-family: title_font;
+    src: url('../fonts/Komoda.otf');
+}
+
+@font-face 
+{
+    font-family: para_font;
+    src: url('../fonts/Oswald-VariableFont_wght.ttf');
+}
+
+
+@font-face 
+{
+    font-family: title_font2;
+    src: url('../fonts/Aleo-Regular.otf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+
+img.header_img
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+.members
+{
+    width: 80%;
+    min-height: 400px;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.members_box
+{
+    transition: 0.5s;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.5);
+}
+
+.members_box:hover
+{
+    transition: 0.5s;
+    box-shadow: 0px 15px 35px rgba(0,0,0,0.5);
+}
+
+.members_box h1
+{
+    font-family: para_font;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+.members .member-item
+{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+
+#member_img
+{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
+
+
+.body-content .members #member_name_div
+{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+
+#multi_member_div
+{
+    transition: 0.5s;
+}
+
+#multi_member_div:hover
+{
+    transition: 0.5s;
+    box-shadow: 0px 5px 15px rgba(0,0,0,0.5);
+}
+
+
+#member_name
+{
+    font-family: roboto_black;
+    font-size: 30px;  
+}
+
+
+@media only screen and (max-width: 991px)
+{
+    .members .member-item
+    {
+        width: 100%;
+    }
+    
+    .body-content .members #member_name_div
+    {
+        padding-top: 10px;
+    }
+    
+    #member_img
+    {
+        width: 300px;
+        height: 300px;
+    }
+    
+    
+}
+

@@ -1,0 +1,398 @@
+@font-face 
+{
+    font-family: nav_font;
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face 
+{
+    font-family: footer_font;
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+@font-face 
+{
+    font-family: title_font;
+    src: url('../fonts/Komoda.otf');
+}
+
+@font-face 
+{
+    font-family: para_font;
+    src: url('../fonts/Oswald-VariableFont_wght.ttf');
+}
+
+
+@font-face 
+{
+    font-family: title_font2;
+    src: url('../fonts/Aleo-Regular.otf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+
+img.header_img
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+div.cards
+{
+    margin: auto;
+    padding: 50px;
+    border: 0px solid red;
+        
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner 
+{
+    /*position: relative;
+    */width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+}
+
+.flip-card1, .flip-card2, .flip-card3, .flip-card4, .flip-card5
+{
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card1:hover .flip-card-inner, .flip-card2:hover .flip-card-inner, .flip-card3:hover .flip-card-inner, .flip-card4:hover .flip-card-inner, .flip-card5:hover .flip-card-inner
+{
+    transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front, .flip-card-back1, .flip-card-back2, .flip-card-back3, .flip-card-back4, .flip-card-back5
+{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front
+{
+    background-color: transparent;
+    color: black;
+}
+
+/* Style the back side */
+.flip-card-back 
+{
+    background-color: dodgerblue;
+    color: white;
+    border: 2px solid black;
+    transform: rotateY(180deg);
+}
+
+.button 
+{
+    font-size: 1em;
+    padding: 10px;
+    color: black;
+    border: 2px solid #06d85f;
+    border-radius: 20px/50px;
+    background-color: transparent;
+    text-decoration: none;
+    cursor: pointer;
+    transition: all 0.3s ease-out;
+}
+
+.button:hover {
+  background: #06d85f;
+}
+
+
+
+
+
+
+.flip-card1, .flip-card2, .flip-card3, .flip-card4, .flip-card5   
+{
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    perspective: 1000px; /* Remove this if you don't want the 3D effect */
+}
+
+.flip-card-back1, .flip-card-back2, .flip-card-back3, .flip-card-back4, .flip-card-back5 
+{
+    padding: 10px;
+    font-family: para_font;
+    /*background-color: #5D5C61;*/
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    transform: rotateY(180deg);
+}
+
+
+div.pop
+{
+    position: fixed;
+    top: 10%;
+    left: 0;
+    display: none;
+    color: white;
+    width: auto;
+    height: auto;
+    z-index: +2;
+    padding: 10px;
+    
+}
+
+
+
+
+div.pop img
+{
+    box-sizing: border-box;
+    width: 30%;
+    margin: auto;
+}
+
+p.popup_para
+{
+    
+    font-family: footer_font;
+    font-weight: bold;
+    opacity: 1;
+    letter-spacing: 0.8px;
+    font-size: 18px;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+    opacity: 1;
+    
+}
+
+h1.popup_title
+{
+    letter-spacing: 0px;
+    font-size: 30px;
+    width: 85%;
+    background-color: transparent;
+    opacity: 1;
+    /*text-decoration: underline;*/
+    font-family: roboto_black;
+    color: white;
+  text-shadow:
+   -2px -2px 0 #000,  
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+     2px 2px 0 #000;
+}
+
+
+
+.close 
+{
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.close:hover
+{
+    color: #06D85F;
+    cursor: pointer;
+}
+
+
+
+div#pop1
+{
+    background-image: url(../images/Committees/disec_bg3re.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div#pop2
+{
+    background-image: url(../images/Committees/hrc_bg3re.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div#pop3
+{
+    background-image: url(../images/Committees/hsc_bg3re.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div#pop4
+{
+    background-image: url(../images/Committees/aippm_bg3re.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div#pop5
+{
+    background-image: url(../images/Committees/ip_bg3re.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+div.exec_pop
+{
+    position: fixed;
+    top: 10%;
+    display: none;
+    /*background-image: linear-gradient(#001110,#002040);*/
+    color: black;
+    background-color: black;
+    width: 40%;
+    z-index: +2;
+    padding: 10px;
+    margin-left: 20%;
+}
+
+.exec_name
+{
+    color: white;
+}
+
+.exec_pic
+{
+    width: 60%;
+}
+
+
+
+div#phone_box
+{
+    display: none;
+    padding-bottom: 10px;
+    font-family: para_font;
+    border: 1px solid transparent;
+    height: auto;
+    width: auto;
+    margin: auto;
+}
+
+div#phone_box:hover
+{
+    border: 1.5px solid #01576d;
+    border-radius: 5px;
+    transition: all 0.6s ease;
+}
+
+div#phone_box center button
+{
+    background-color: transparent;
+    border: 0.5px solid #002c3b;
+    border-radius: 3px;
+    color: #002c3b;
+    height: 30px;
+    width: 150px;
+}
+
+div#phone_box center button:hover
+{
+    background-color:  #01576d;
+    color: white;
+    border: 1px solid #fff;
+    border-radius: 20px;
+    transition: 0.6s ease;
+    
+}
+
+
+
+@media only screen and (max-width: 1091px)
+{
+    div.pop img
+    {
+        width: 60%;
+    }
+    
+    div.pop
+    {
+        top:0;
+    }
+    
+    div#phone_box
+    {
+        display: block;
+    }
+    
+    .flip-card1, .flip-card2, .flip-card3, .flip-card4, .flip-card5
+    {
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width: 991px)
+{
+    .flip-card-inner 
+    {
+        /*position: relative;
+        */width: 10px;
+        height: 10px;
+        text-align: center;
+        transition: transform 0.8s;
+        transform-style: preserve-3d;
+    }
+    
+    div.pop
+    {
+        top:0;
+        left: 0;
+        width: auto;
+    }
+    
+    div.exec_pop
+    {
+        width: auto;
+        margin-left: -10%;
+    }
+    
+    p.popup_para
+    {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-height: 600px)
+{
+    p.popup_para
+    {
+        font-size: 13px;
+    }
+    
+    div.pop img
+    {
+        width: 30%;
+    }
+}

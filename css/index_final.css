@@ -1,0 +1,428 @@
+@font-face 
+{
+    font-family: nav_font;
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face 
+{
+    font-family: footer_font;
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+@font-face 
+{
+    font-family: title_font;
+    src: url('../fonts/Komoda.otf');
+}
+
+@font-face 
+{
+    font-family: para_font;
+    src: url('../fonts/Oswald-VariableFont_wght.ttf');
+}
+
+
+@font-face 
+{
+    font-family: title_font2;
+    src: url('../fonts/Aleo-Regular.otf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+body, *
+{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+
+header
+{
+    min-height: 50px;
+    position: absolue;
+    top: 0;
+    left: 0;
+    padding: 0 100px;
+    background-image: url('../images/Committees/banner_final.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+
+header .logo
+{
+    color: #fff;
+    height: 50px;
+    line-height: 50px;
+    font-size: 24px;
+    float: left;
+    font-weight: bold;
+}
+
+header .logo img
+{
+    height: 50px;
+    width: 70px;
+}
+
+header nav
+{
+    float: right;
+}
+
+header nav ul
+{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+header nav ul li
+{
+    list-style: none;
+}
+
+header nav ul li a
+{
+    text-transform: uppercase;
+    font-size: 20px;
+    font-family: nav_font;
+    
+    height: 50px;
+    line-height: 50px;
+    padding: 0 20px;
+    color: #fff;
+    text-decoration: none;
+    
+    padding-bottom: 5px;
+    border-color: rgba(0,0,0,0);
+    border-style: solid;
+    border-radius: 0px;
+    border-left: 10px;
+    border-top: 10px;
+    border-right: 10px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+}
+
+header nav ul li a:hover, header nav ul li a.active
+{
+    border-color: white;
+    transition: ease 0.8s;
+    border-color: white;   
+}
+
+header nav ul li a.active:hover
+{
+    border-radius: 25px;
+    border-top: 10px;
+    border-left: 10px;
+    border-right: 10px;
+    text-shadow: 0px 0px 0px black;
+    color: white;
+    transition: 0.4s;
+}
+
+.menu-toggle
+{
+    color: white;
+    float: right;
+    padding-right: 20px;
+    line-height: 50px;
+    font-size: 24px;
+    cursor: pointer;
+    display: none;
+}
+
+.bgimg-1 
+{
+    background-image: url("../images/aumun_banner_final_white.png");
+    min-height: 650px;
+}
+
+@media only screen and (max-width: 1091px)
+{
+    header
+    {
+        padding: 0 0px;
+    }
+    
+    .menu-toggle
+    {
+        display: block;
+    }
+    header nav
+    {
+        position: absolute;
+        width: 100%;
+        height: calc(100vh - 50px);
+        background-image: url('../images/Committees/banner_final.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        top: 50px;
+        left: -100%;
+        transition: 0.5s;
+        z-index: +3;
+    }
+    header nav.active
+    {
+        left: 0;
+    }
+    header nav ul
+    {
+        display: block;
+        text-align: center;
+    }
+    header nav ul li
+    {
+        
+    }
+    
+    .bgimg-1 
+    {   
+        transition: 0.3s;
+        background-image: url("../images/aumun_banner_final_phone_white2.jpg");
+    }
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+.bgimg-1, .bgimg-2, .bgimg-3
+{
+    position: relative;
+    opacity: 0.9;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+.bgimg-2
+{
+    background-image: url("../images/globe_bg.jpg");
+    min-height: 400px;
+}
+
+.bgimg-3
+{
+    background-image: url("../images/home_bg3.jpg");
+    min-height: 400px;
+}
+
+.caption 
+{
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+#main_caption 
+{
+    position: absolute;
+    left: 0;
+    top: 90%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+
+#end_caption
+{
+    position: absolute;
+    left: 0;
+    top: 80%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+        
+}
+.caption span.border
+{
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 25px;
+    letter-spacing: 10px;
+}
+span.border
+{
+    background-color: black;
+    opacity: 0.7; 
+    font-size:25px;
+    color: #f7f7f7;
+    line-height: 65px;
+}
+
+p.message_sec
+{   /*
+    margin: 10px;
+    padding: 20px;
+    */
+    font-family: footer_font;
+    font-size: 16.5px;
+    line-height: 30px;
+}
+
+/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/
+
+footer
+{
+    width: 100%;
+    background-image: url('../images/Committees/banner_final.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
+
+footer .inner-footer
+{
+    width: 95%;
+    margin: auto;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer .footer-items
+{
+    width: 33%;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+
+footer img
+{
+    width: 100%;
+    height: 40%;
+}
+
+footer .footer-items p
+{
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: justify;
+    line-height: 25px;
+}
+
+footer h3
+{
+    margin: 10px 0;
+    color: white;
+    font-size: 16px;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+footer .border
+{
+    height: 2px;
+    width: 40px;
+    background: #ff9800;
+}
+
+footer ul
+{
+    list-style: none;
+    color: #fff;
+    font-size: 15px;
+    letter-spacing: 0.5px;
+}
+
+footer ul a
+{
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    transition: 0.3s;
+}
+
+footer ul a:hover
+{
+    color: black;
+}
+
+footer ul li
+{
+    margin: 10px 0;
+    height: 25px;
+    text-align: justify;
+}
+
+footer li i
+{
+    margin-right: 20px;
+}
+
+footer .social-media
+{
+    width:100%;
+    color: #fff;
+    text-align: center;
+}
+
+footer .social-media a
+{
+    text-decoration: none;
+}
+
+footer .social-media i
+{
+    height: 15px;
+    width: 5px;
+    margin: 20px 5px;
+    padding: 10px;
+    color: white;
+    border-radius: 50%;
+    border: 0px solid white;
+    transition: 0.3s;
+}
+
+footer .social-media i:hover
+{
+    background: grey;
+}
+
+footer .footer-bottom
+{
+    padding: 10px;
+    background: #3d545f;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
+@media (max-width: 991px)
+{
+    footer .footer-items
+    {
+        width: 100%;
+    }
+    
+    footer .footer-items img
+    {
+        width: 60%;
+    }
+    
+}
