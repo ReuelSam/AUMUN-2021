@@ -1,0 +1,157 @@
+@font-face 
+{
+    font-family: nav_font;
+    src: url('../fonts/Roboto-Bold.ttf');
+}
+
+@font-face 
+{
+    font-family: footer_font;
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+@font-face 
+{
+    font-family: title_font;
+    src: url('../fonts/Komoda.otf');
+}
+
+@font-face 
+{
+    font-family: para_font;
+    src: url('../fonts/Oswald-VariableFont_wght.ttf');
+}
+
+
+@font-face 
+{
+    font-family: title_font2;
+    src: url('../fonts/Aleo-Regular.otf');
+}
+
+@font-face 
+{
+    font-family: roboto_black;
+    src: url('../fonts/Roboto-Black.ttf');
+}
+
+
+img.header_img
+{
+    width: 100%;
+    height: 100%;
+}
+
+
+div.body-content
+{
+    width: 100%;
+    display: block;
+}
+
+div.all_contact
+{
+    width: 95%;
+    margin: auto;
+    padding: 30px 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+div.all_contact .contact-item
+{
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+
+form
+{
+    margin-top: 10px;
+    transition: all 4s ease-in-out;
+}
+
+.form-control
+{
+    width: 100%;
+    background: transparent;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-top: 0px;
+    height: 50px;
+    outline: none;
+    border-bottom: 1px solid gray;
+    color: #000;
+    font-size: 18px;
+    font-family: footer_font;
+    margin-bottom: 16px;
+}
+
+textarea.form-control
+{
+    padding-top: 15px;
+    height: 200px; 
+}
+
+.form-control-submit
+{
+    float: right;
+    height: 30px;
+    border-radius: 7px;
+    border: 1px solid black;
+    background-color: #023e49;
+    /*background-color: #1b2f47;*/
+    color: #fff;
+}
+
+.form-control-submit:hover
+{
+    background-color: black;
+    transition: 1s;
+}
+
+.form-control:hover
+{
+    border: 1px solid black;
+}
+
+.form-control:focus
+{
+    border: 1.5px solid #023e49;
+    /*border: 2px solid #1b2f47;*/
+}
+
+.contact-item form span
+{
+    display: none;
+    font-family: footer_font;
+}
+
+.contact-item h1
+{
+    font-family: para_font;
+    font-size: 20px;
+}
+
+
+@media only screen and (max-width: 991px)
+{
+    div.all_contact .contact-item
+    {
+        width: 100%;
+    }
+    
+    .contact-item h1
+    {
+        font-size: 25px;
+    }
+}
+
