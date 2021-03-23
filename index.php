@@ -73,7 +73,7 @@
 
                     <figure style="float: left; margin-right: 20px;">
                         <p> 
-                            <img class="s_general" src="images/Team/vineeth_home5.png" alt="Secretary General" style=" margin-top: 70px; background-blend-mode:color; ">
+                            <img class="s_general" src="images/Team/vamsi.jfif" alt="Secretary General" style=" margin-top: 70px; background-blend-mode:color; height: 603px; width: 262px">
                             <figcaption><center><i></i></center></figcaption>
                     </figure>
 
@@ -90,7 +90,7 @@
     On that note, on behalf of the AUMUN Secretariat, I cordially invite you to join us in Chennai for AUMUN 2020.
                         <br /> <br />
                         
-                    <span style="float: right; text-align: justify"><i>Vineeth Ajith John</i></span>
+                    <span style="float: right; text-align: justify"><i>Vamsi Krishna</i></span>
                         <br />
                     <span style="float: right; text-align: justify"><i>Secretary General<br /></i></span>
                         <br />
