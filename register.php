@@ -86,14 +86,6 @@
                     </center>
                 </div>
                 
-                <div class="eb_register" id="register_box">
-                    <center>
-                        
-                    <h1>Executive Board</h1>
-                    <button class="register_button" id="eb_button" >Closed</button>
-                    </center>
-                </div>
-                
                 <br />
                 
                 <br />
@@ -101,7 +93,7 @@
                  <div class="eb_register" id="register_box">
                     <center>
                     <h1>Payment</h1>
-                    <button class="register_button" id="payment_button" onclick="">Proceed to Payment</button>
+                    <button class="register_button" id="payment_button" onclick="">Closed</button>
                     </center>
                 </div>
                 
