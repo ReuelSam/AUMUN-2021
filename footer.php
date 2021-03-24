@@ -33,12 +33,12 @@
                     <ul>
                         <li><i class="fa fa-map-marker" aria-hidden="true"></i> College of Engineering Guindy,</li>
                         <li><pre>        Anna University</pre></li>
-                        <li><i class="fa fa-phone" aria-hidden="true"></i> 91 7356415751</li>
-                        <li><i class="fa fa-envelope" aria-hidden="true"></i> aumun2020@gmail.com</li>
+                        <li><i class="fa fa-phone" aria-hidden="true"></i> Unavailable</li>
+                        <li><i class="fa fa-envelope" aria-hidden="true"></i> aumun.communication2021@gmail.com</li>
                     </ul>
                     <div class="social-media">
                         <a href="https://www.facebook.com/AUMUN2019/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                        <a href="https://instagram.com/aumun2020?igshid=1pyj3gy8qai0g" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        <a href="https://instagram.com/aumun2021?igshid=11duhs3t3ua4s" target="blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
                     </div>
                 </div>
 

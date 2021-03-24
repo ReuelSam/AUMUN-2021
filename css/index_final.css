@@ -151,8 +151,8 @@ header nav ul li a.active:hover
 
 .bgimg-1 
 {
-    background-image: url("../images/aumun_banner_final_white.png");
-    min-height: 650px;
+    background-image: url("../images/aumun-2021-banner-mobile.jpg");
+    min-height: 800px;
 }
 
 @media only screen and (max-width: 1091px)
@@ -196,7 +196,7 @@ header nav ul li a.active:hover
     .bgimg-1 
     {   
         transition: 0.3s;
-        background-image: url("../images/aumun_banner_final_phone_white2.jpg");
+        background-image: url("../images/aumun-2021-banner-mobile2.jpg");
     }
 }
 
