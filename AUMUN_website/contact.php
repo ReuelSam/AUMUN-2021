@@ -83,7 +83,7 @@
             
             if(isset($_POST['submit']))
             {
-                $to = "aumun2020@gmail.com"; // this is your Email address
+                $to = "aumun.communication2021@gmail.com"; // this is your Email address
                 $from = $_POST['email']; // this is the sender's Email address
                 $name = $_POST['name'];
                 $subject = "AUMUN Contact Form submission";

@@ -73,28 +73,27 @@
 
                     <figure style="float: left; margin-right: 20px;">
                         <p> 
-                            <img class="s_general" src="images/Team/vamsi.jfif" alt="Secretary General" style=" margin-top: 70px; background-blend-mode:color; height: 603px; width: 262px">
+                            <img class="s_general" src="images/Team/vamsi.jfif" alt="Secretary General" style=" margin-top: 70px; background-blend-mode:color; height: 400px; width: 200px">
                             <figcaption><center><i></i></center></figcaption>
                     </figure>
 
 
-                    <p class="message_sec"><b>Dear Delegates, </b><br /><br />
-    I am pleased to announce on behalf of Capitalize, that the first edition of AUMUN shall take place on the 7th, 8th and 9th of February 2020.
+                    <p class="message_sec"><b>Respected Delegates, </b><br /><br />
+                    It gives me immense pleasure to present the second edition of the Anna University Model United Nations on the 16th and 17th of April 2021. As we enter our second year, we aspire to add to the iconic legacy of Anna University by presenting a conference worthy of the institute. Keeping in mind the uncertain times we live in, the conference will be held virtually this year.
                             <br /><br />
-    To serve as the Secretary General for the very first edition is not just an honor but also a dream come true. My journey with Model United Nations began when I was in the 10th grade. But my first conference did not go exactly as one would expect it to. Travelling all the way to Hyderabad, along with 30 of your school friends, felt more like a field trip rather than a Model UN experience.  However, being involved in the conference for 3 days - observing people debate about issues I was never aware, representing countries I had never heard about – made me realize that there was a lot for me to improve upon.
+    
+With five committees being staged in this edition, we have something to pique everyone's curiosity. With a blend of conventional and unconventional committees, AUMUN promises to offer engaging debate and discuss issues that are pertinent to the issues plaguing the world currently.
+
                             <br /><br />
-    The passion, with which my fellow delegates debated, argued and lobbied, inspired and enabled the curiosity within me to know more about MUNs. It was not just the committee rooms, but the entire conference brought about a different feel that I had not experienced before; thus forming an everlasting impression and instilling in me the drive to improve as a delegate.
-                            <br /><br />
-    That feel and drive I experienced is exactly what my team and I aim to provide you with. We don’t plan on organizing just a textbook MUN conference but rather something that will leave an impression in the minds of seasoned veterans and first timers alike. We will not rest in our mission to deliver a memorable experience, both inside and outside the committee room.
-                            <br /><br />
-    On that note, on behalf of the AUMUN Secretariat, I cordially invite you to join us in Chennai for AUMUN 2020.
+                            We look forward to having you at the conference and hope that we can offer a high standard of debate that is becoming of the conference.
+
                         <br /> <br />
                         
-                    <span style="float: right; text-align: justify"><i>Vamsi Krishna</i></span>
+                    <span style="float: right; text-align: justify"><i>Vamsi Krishna Ramesh</i></span>
                         <br />
                     <span style="float: right; text-align: justify"><i>Secretary General<br /></i></span>
                         <br />
-                    <span style="float: right; text-align: justify"><i>AUMUN 2020</i></span>
+                    <span style="float: right; text-align: justify"><i>AUMUN 2021</i></span>
      </p>
 
 

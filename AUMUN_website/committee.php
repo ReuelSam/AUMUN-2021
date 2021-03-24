@@ -167,11 +167,11 @@
                 <div class="flip-card1">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <img src="images/Committees/disec.png"  alt="Avatar" style="width:300px;height:300px;background-color: transparent">
+                            <img src="images/Committees/who.png"  alt="Avatar" style="width:300px;height:300px;background-color: transparent">
                         </div>
 
                         <div class="flip-card-back1">
-                            <h1>Committee 1: DISEC</h1>
+                            <h1>Committee 1: WHO</h1>
                            
                                 <br />
                                 <button id="exec_board" class="button" onclick="pop_exec1()">Executive Board</button>
@@ -183,7 +183,7 @@
                 
                 <div id="exec1" class="exec_pop">
                     <span class="close" onclick="close_exec_pop1()">&times;</span>
-                    <center><h1 class="popup_title">DISEC: Disarmament and International Security</h1></center>
+                    <center><h1 class="popup_title">WHO: World Health Organization</h1></center>
                     <center>
                         <img class="exec_pic" src="images/Team/stock_user.jpg">
                         <h3 class="exec_name">Executive Board: Joe Frank Bob</h3>
@@ -192,12 +192,13 @@
                 
                 <div id="pop1" class="pop">
                     <span class="close" onclick="close_pop1()">&times;</span>
-                    <center><h1 class="popup_title">DISEC: Disarmament and International Security</h1></center>
+                    <center><h1 class="popup_title">WHO: World Health Organization</h1></center>
                     
                     <center>
-                    <img class="ip_popup" src="images/Committees/disec_white.png">
+                    <img class="ip_popup" src="images/Committees/who_white.png">
                     <br />
-                    <p class="popup_para" >United Nations General Assembly Disarmament and International Security, commonly known as the First Committee, is one of the 6 main committees of the General Assembly. The UNGA DISEC deals with disarmament, global challenges, and threats to peace that affect the international community. Its mandate encompasses all Disarmament and International Security issues within the scope of the Charter of the United Nations or relating to the powers and functions of any other organ of the United Nations. The committee works in cooperation with the United Nations Disarmament Commission and the Conference on Disarmament.</p>
+                    <p class="popup_para" >The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health.[1] The WHO Constitution, which establishes the agency's governing structure and principles, states its main objective as "the attainment by all peoples of the highest possible level of health". Here, delegates will contemplate upon the prospective relaxation of COVID policies worldwide in light of the vaccination drive.
+</p>
                     </center>
                 </div>
                 
@@ -275,11 +276,11 @@
                 <div class="flip-card3">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <img src="images/Committees/unhsc_logo.jpg" alt="Avatar" style="width:300px;height:300px;">
+                            <img src="images/Committees/fcc.jpg" alt="Avatar" style="width:300px;height:300px;">
                         </div>
 
                         <div class="flip-card-back3">
-                            <h1>Committee 3: UNHSC</h1>
+                            <h1>Committee 3: FCC</h1>
                             
                             <br />
                             <button id="exec_board" class="button" onclick="pop_exec3()">Executive Board</button>
@@ -291,7 +292,7 @@
                 
                 <div id="exec3" class="exec_pop">
                     <span class="close" onclick="close_exec_pop3()">&times;</span>
-                    <center><h1 class="popup_title">UNHSC: United Nations Historical Security Council</h1></center>
+                    <center><h1 class="popup_title">FCC: Future Crisis Committee</h1></center>
                     <center>
                         <img class="exec_pic" src="images/Team/stock_user.jpg">
                         <h3 class="exec_name">Executive Board: Joe Frank Bob</h3>
@@ -301,11 +302,13 @@
                 
                 <div id="pop3" class="pop">
                     <span class="close" onclick="close_pop3()">&times;</span>
-                    <center><h1 class="popup_title">UNHSC: United Nations Historical Security Council</h1></center>
+                    <center><h1 class="popup_title">FCC: Future Crisis Committee</h1></center>
                     <br />
                     <center>
-                    <img class="ip_popup" src="images/Committees/unhsc_white.png">
-                    <p class="popup_para" >One of the six principal organs of the United Nations, the Security Council is responsible for the maintenance of international peace and security; the admission of new member states to the United Nations, and approving any changes to the United Nations Charter. Through establishing international peacekeeping missions, imposing international sanctions, and authorising military action through resolutions; the Security Council is able to impose binding actions on member states, making it the most powerful UN institution. Consisting of fifteen members, the Security Council is a small body, and is dominated by the permanent five veto-wielding powers of China, France, Russia, the United Kingdom, and the United States. Always a high-profile institution, the United Nations Security Council is interesting to simulate, in both its present-day and historic contexts.</p>
+                    <img class="ip_popup" src="images/Committees/fcc_white.png">
+                    <p class="popup_para" >FCC Agenda: Emergency meeting on the 1st of August 2022. “The Situation is Asia” - Closed doors meeting.
+
+After the world finally recovers from the COVID-19 Pandemic, the countries turn back to their foreign policy goals and interests. Over a year, Africa and China solidify their relationship, and multiple new B&RO projects pop. Increased Environmental impact on many islands in the South China Sea, border tensions in the Indian Sub-Continent and other points of concern that took second seat rise back up in 2022. This council is called, behind closed doors, to address the reality of these problems and pave a way forward for all countries no matter the crisis.</p>
                     </center>
                 </div>   
                 
@@ -329,11 +332,11 @@
                 <div class="flip-card4">
                     <div class="flip-card-inner">
                         <div class="flip-card-front">
-                            <img src="images/Committees/lok_sabha.png" alt="Avatar" style="width:300px;height:300px;">
+                            <img src="images/Committees/ecofin.png" alt="Avatar" style="width:300px;height:300px;">
                         </div>
 
                         <div class="flip-card-back4">
-                            <h1>Committee 4: Lok Sabha</h1>
+                            <h1>Committee 4: ECOFIN</h1>
                             
                             <br />
                             <button id="exec_board" class="button" onclick="pop_exec4()">Executive Board</button>
@@ -345,7 +348,7 @@
                 
                 <div id="exec4" class="exec_pop">
                     <span class="close" onclick="close_exec_pop4()">&times;</span>
-                    <center><h1 class="popup_title">Lok Sabha</h1></center>
+                    <center><h1 class="popup_title">ECOFIN: Economic and Finance Committee</h1></center>
                     <center>
                         <img class="exec_pic" src="images/Team/stock_user.jpg">
                         <h3 class="exec_name">Executive Board: Joe Frank Bob</h3>
@@ -354,11 +357,15 @@
                 
                 <div id="pop4" class="pop">
                     <span class="close" onclick="close_pop4()">&times;</span>
-                    <center><h1 class="popup_title">Lok Sabha</h1></center>
+                    <center><h1 class="popup_title">ECOFIN</h1></center>
                                     <br />
                     <center>
-                    <img class="ip_popup" src="images/Committees/aippm_white.png">
-                    <p class="popup_para" >The House of the People, known as the Lok Sabha is the most powerful of the two houses of the Indian parliament. Members of the Lok Sabha are elected by a first-past-the-post system to represent their respective constituencies, and they either hold their seats for a duration of five years or until the body is dissolved by the President. It dominates ordinary law-making bills, and also possesses certain judicial powers to perform various governing functions</p>
+                    <img class="ip_popup" src="images/Committees/ecofin_white.png">
+                    <p class="popup_para" >The Economic and Financial Affairs Council (ECOFIN) is one of the oldest configurations of the Council of the European Union[1] and is composed of the economics and finance ministers of the 27 European Union member states, as well as Budget Ministers when budgetary issues are discussed.
+
+ECOFIN often works with the European Commissioner for Economic and Financial Affairs and the President of the European Central Bank.
+
+ECOFIN Agenda: Discussing the viability of cryptocurrency being used as a legal form of currency and addressing the loopholes associated with its legality.</p>
                     </center>
                 </div>
                 
@@ -367,9 +374,9 @@
                     
                         <br />
                         <div>
-                            <img src="images/Committees/lok_sabha.png"  alt="Avatar" style="width:250px;height:250px;background-color: transparent">
+                            <img src="images/Committees/ecofin_white.png"  alt="Avatar" style="width:250px;height:250px;background-color: transparent">
                         </div>
-                        <h1>LOK SABHA</h1>
+                        <h1>ECOFIN</h1>
                         <button id="exec_board" class="register_button" onclick="pop_exec4()">Executive Board</button>
                         <br /> <br />
                         <button id="learnmore" class="register_button" onclick="open_pop4()">Learn More</button>

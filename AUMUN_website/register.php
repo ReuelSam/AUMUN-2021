@@ -51,8 +51,8 @@
                 
                 <div class="disec_register" id="register_box">
                     <center>
-                    <h1>DISEC</h1>
-                    <button id="disec_button" class="register_button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSc3O3Ah3o-U9PHE122iLNCiap03ILJHDQA8ppxN5flXv_nLTQ/viewform','_blank')">Open Now</button>
+                    <h1>WHO</h1>
+                    <button id="disec_button" class="register_button" onclick="">Closed</button>
                         
                         
                     </center>
@@ -61,28 +61,28 @@
                 <div class="unhrc_register" id="register_box">
                     <center>
                     <h1>UNHRC</h1>
-                    <button id="unhrc_button" class="register_button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSc3O3Ah3o-U9PHE122iLNCiap03ILJHDQA8ppxN5flXv_nLTQ/viewform','_blank')">Open Now</button>
+                    <button id="unhrc_button" class="register_button" onclick="">Closed</button>
                     </center>
                 </div> 
                 
                 <div class="unhsc_register" id="register_box">
                     <center>
-                    <h1>UNHSC</h1>
-                    <button id="unhsc_button" class="register_button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSc3O3Ah3o-U9PHE122iLNCiap03ILJHDQA8ppxN5flXv_nLTQ/viewform','_blank')">Open Now</button>
+                    <h1>FCC</h1>
+                    <button id="unhsc_button" class="register_button" onclick="">Closed</button>
                     </center>
                 </div>
                 
                 <div class="aippm_register" id="register_box">
                     <center>
-                    <h1>Lok Sabha</h1>
-                    <button id="loksabha_button" class="register_button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSc3O3Ah3o-U9PHE122iLNCiap03ILJHDQA8ppxN5flXv_nLTQ/viewform','_blank')">Open Now</button>
+                    <h1>ECOFIN</h1>
+                    <button id="loksabha_button" class="register_button" onclick="">Closed</button>
                     </center>
                 </div>
                 
                 <div class="ip_register" id="register_box">
                     <center>
                     <h1>International Press</h1>
-                    <button id="ip_button" class="register_button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSdQWpZVcOmOBwQCqLXEtZqSydLK_g6okM3UxlMlXXJxv-v2_g/viewform','_blank')">Open Now</button>
+                    <button id="ip_button" class="register_button" onclick="">Closed</button>
                     </center>
                 </div>
                 
@@ -101,7 +101,7 @@
                  <div class="eb_register" id="register_box">
                     <center>
                     <h1>Payment</h1>
-                    <button class="register_button" id="payment_button" onclick="window.open('https://www.thecollegefever.com/events/aumun-2020','_blank')">Proceed to Payment</button>
+                    <button class="register_button" id="payment_button" onclick="">Proceed to Payment</button>
                     </center>
                 </div>
                 

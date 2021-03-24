@@ -51,8 +51,8 @@
                 
                 <div class="disec" id="register_box">
                     <center>
-                    <h2>Disec Background Guide</h2>
-                        <a href="images/Resources/disec_background_guide_aumun2020.pdf" target="_blank"><button id="disec_button" class="register_button" >Open PDF</button></a>
+                    <h2>WHO Background Guide</h2>
+                        <a href="" ><button id="disec_button" class="register_button" >Unavailable</button></a>
                     </center>
                 </div> 
                 
@@ -61,7 +61,7 @@
                  <div class="HRC" id="register_box">
                     <center>
                     <h2>HRC Background Guide</h2>
-                        <a href="images/Resources/hrc_background_guide_aumun2020.pdf" target="_blank"><button id="disec_button" class="register_button" >Open PDF</button></a>
+                        <a href="" ><button id="disec_button" class="register_button" >Unavailable</button></a>
                     </center>
                 </div> 
                 
@@ -69,8 +69,8 @@
                 
                  <div class="HSC" id="register_box">
                     <center>
-                    <h2>HSC Background Guide</h2>
-                        <a href="images/Resources/hsc_background_guide_aumun2020.pdf" target="_blank"><button id="disec_button" class="register_button" >Open PDF</button></a>
+                    <h2>FCC Background Guide</h2>
+                        <a href="" ><button id="disec_button" class="register_button" >Unavailable</button></a>
                     </center>
                 </div> 
                 
@@ -78,8 +78,8 @@
                 
                  <div class="IP" id="register_box">
                     <center>
-                    <h2>Lok Sabha Background Guide</h2>
-                        <a href="images/Resources/loksabha_background_guide_aumun2020.pdf" target="_blank"><button id="disec_button" class="register_button" >Open PDF</button></a>
+                    <h2>ECOFIN Background Guide</h2>
+                        <a href="" ><button id="disec_button" class="register_button" >Unavailable</button></a>
                     </center>
                 </div> 
                 
@@ -90,7 +90,7 @@
                  <div class="IP" id="register_box">
                     <center>
                     <h2>IP Style Guide</h2>
-                        <a href="images/Resources/ip_style_guide_aumun2020.pdf" target="_blank"><button id="disec_button" class="register_button" >Open PDF</button></a>
+                        <a href="" ><button id="disec_button" class="register_button" >Unavailable</button></a>
                     </center>
                 </div> 
                 
