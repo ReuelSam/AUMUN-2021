@@ -33,7 +33,7 @@
                     <ul>
                         <li><i class="fa fa-map-marker" aria-hidden="true"></i> College of Engineering Guindy,</li>
                         <li><pre>        Anna University</pre></li>
-                        <li><i class="fa fa-phone" aria-hidden="true"></i> Unavailable</li>
+                        <li><i class="fa fa-phone" aria-hidden="true"></i> +91 94879 66425, +91 87544 46949</li>
                         <li><i class="fa fa-envelope" aria-hidden="true"></i> aumun.communication2021@gmail.com</li>
                     </ul>
                     <div class="social-media">
