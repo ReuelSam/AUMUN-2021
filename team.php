@@ -199,7 +199,7 @@
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Kanishk</label>
+                                <label id="member_name">Kanishk Raina</label>
                             </center>
                         </div>        
                 </div>
