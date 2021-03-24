@@ -181,7 +181,7 @@
                 
                 
                 <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/stock_user1.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/gautham.jpg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
@@ -203,7 +203,7 @@
                     <center><h1>USG Technology</h1></center>
                     <hr />
                 <div class="members">
-                        <img class="member-item" id="member_img" src="images/Team/reuel3.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/reuel4.PNG">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
@@ -294,11 +294,11 @@
                 </div> 
                 
                 <div class="members" id="multi_member_div">
-                        <img class="member-item" id="member_img" src="images/Team/stock_user1.jpg">
+                        <img class="member-item" id="member_img" src="images/Team/meenakshi.jpeg">
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Meenakshi</label>
+                                <label id="member_name">Meenakshi Peringhat</label>
                             </center>
                         </div>        
                 </div>
