@@ -367,7 +367,7 @@
                     
                         <div class="member-item" id="member_name_div">
                             <center>
-                                <label id="member_name">Siva Sivakumar</label>
+                                <label id="member_name">Sivakumar Sankareswaran</label>
                             </center>
                         </div>        
                 </div>   
